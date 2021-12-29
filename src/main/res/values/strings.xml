@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animalapp</string>
+    <string name="nombre">Cual es tu nombre?</string>
+    <string name="jugar">Jugar</string>
+
+    <string name="etvidas">Manzanas</string>
+    <string name="jugador">Jugador</string>
+    <string name="totalScore">Score: 0</string>
+    <string name="BotonSumar">Comprobar</string>
+    <string name="etRespuesta">Respuesta</string>
+</resources>
